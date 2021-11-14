@@ -1,0 +1,161 @@
+* {
+    margin: 0px;
+    color: #ff99ac;
+}
+.intro {
+    background-color: #0b090a;
+    text-align: center;
+}
+h1 {
+   padding-top: 53px;
+   font-family: 'Caveat', cursive;
+}
+.logo1 {
+    width: 453px;
+    position: absolute;
+    right: 380px;
+    top: 556px;
+}
+.blackpink {
+    width: 500px;
+    margin: 100px;
+}
+.jennie {
+    width: 193px;
+    position: absolute;
+    right: 0px;
+    top: 455px;
+}
+.jisoo {
+    width: 100px;
+    position: absolute;
+    right: 923px;
+    top: 126px;
+}
+.lisa {
+    width: 158px;
+    position: absolute;
+    right: 1109px;
+    top: 420px;
+    right: 172px;
+    top: 177px;
+}
+.rose {
+    width: 124px;
+    position: absolute;
+    right: 1109px;
+    top: 479px;
+}
+.about {
+    text-align: center;
+    font-size: 17px;
+}
+hr {
+    border: dotted;
+    border-bottom: none;
+    color: #0b090a;
+    margin: 10px auto;
+    width: 20%;
+}
+.logo {
+    width: 400px;
+    margin: 20px;
+} 
+p {
+    margin-bottom: 5px;
+}
+span:hover {
+    color: #0b090a;
+    text-transform: uppercase;
+    position: relative;
+}
+.about ul {
+    list-style-type: none;
+}
+.about ul li {
+    float: left;
+    position: relative;
+}
+.image img {
+    position: absolute;
+    width: 200px;
+}
+.jisoo1 img {
+    display: none;
+}
+.jisoo1:hover img {
+    display: block;
+}
+.jennie1 img {
+    display: none;
+}
+.jennie1:hover img {
+    display: block;
+}
+.rose1 img {
+    display: none;
+}
+.rose1:hover img {
+    display: block;
+}
+.lisa1 img {
+    display: none;
+}
+.lisa1:hover img {
+    display: block;
+}
+.image {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 566px;
+}
+.name {
+    width: 50%;
+    margin: 50px auto;
+    font-size: 15px;
+    font-family: 'Estonia', cursive;
+}
+h3 {
+    font-size: 25px;
+    color: #0b090a;
+}
+.name img {
+    width: 150px;
+}
+.jisoo2 {
+    margin-bottom: 100px;
+}
+.jennie2 {
+    margin-bottom: 50px;
+}
+.rose2 {
+    margin-bottom: 50px;
+}
+.lisa2 {
+    margin-bottom: 100px;
+}
+.jisoo2 .jisoo3 {
+    float: left;
+}
+.jennie2 .jennie3 {
+    float: right;
+}
+.rose2 .rose3 {
+    float: left;
+}
+.lisa2 .lisa3 {
+    float: right;
+}
+.end {
+    background-color: #fff0f3;
+    padding: 80px;
+    text-align: center;
+    font-size: 18px;
+}
+.end a:hover {
+    color: #0b090a;
+    text-transform: uppercase;
+}
+.end a {
+    margin: 20px;
+}
